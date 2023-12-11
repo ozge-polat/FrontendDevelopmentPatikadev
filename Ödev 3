@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kek Tarifi</title>
+</head>
+<body>
+   
+    <h1>Çikolatalı Mermer Kek</h1>
+    <img width="400" src="https://cdn.yemek.com/mnresize/1250/833/uploads/2023/03/iki-renkli-kek-onecikan.jpg" alt="">
+    <ul> <strong>Malzemeler</strong>
+        <li>150 gram tereyağ (yumuşak)</li>
+        <li>1 su bardağından 1 parmak eksik şeker</li>
+        <li>3 adet yumurta</li>
+        <li>Yarım çay bardağı sıvı yağ</li>
+        <li>2,5 su bardağı un</li>
+        <li>1 yemek kaşığı nişasta</li>
+        <li>1 paket vanilya</li>
+        <li>1 paket kabartma tozu</li>
+        <li>2 yemek kaşığı kakao</li>
+        <li>3 yemek kaşığı süt (kakaolu karışıma eklenecek)</li>
+    </ul>
+
+    <ol> <strong>Nasıl yapılır?</strong>
+        <li>Oda ısısında ki yumurta ve şekeri yumuşamış tereyağı işe güzelce çırpıyoruz.</li>
+        <li>Sıvı yağ ve sütü ekleyerek biraz daha karıştırıp kakao hariç kuru malzemeleri ekliyoruz.</li>
+        <li>Kek hamuru hazır olduktan sonra yarısını ayırıp içine kakao ve süt ekleyeler kakaolu kek karışımını hazırlıyoruz.</li>
+        <li>Uygun kek kalıbınızın altına yağlı kağıt serip bir kaşık sade bir kaşık kakaolu kekten koyuyoruz.</li>
+        <li>Hamurlar bitinceye kadar bu işlemi yapıyoruz.</li>
+        <li>En son üzerini kürdan ile şeritler çekip önceden ısıtılmış 180 derece fırında pişiriyoruz.</li>
+        <li>Kürdan testi yaparak anlayabilirsiniz.</li>
+        <li>Keki fırından çıkardıktan sonra soğutup üzerine benmari usulü erittiğimiz çikolata döküp servis ediyoruz afiyet şeker olsun 😋.</li>
+    </ol>
+ 
+</body>
+</html>
