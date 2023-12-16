@@ -1,0 +1,179 @@
+----------HTML PART-------------
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="cv.css">
+</head>
+<body style="background-color: rgb(238, 238, 238); font-family: 'Courier New', Courier, monospace;">
+    <h1 class="isim">Özge Polat</h1>
+    <p style="text-align: center; margin-top: -20px;">Turkey</p>
+    <img class="image" style="width: 250px; height: 250px; object-fit: cover;"  src="görseller/IMG_20231123_225511.jpg" alt="">
+    <div id="verticle"></div>
+    <!-- <hr style="height: 800px; width: 1px; color: black;  align-items: center; margin-top: 45px;"/> -->
+<!-- SOL TARAF -->
+    <div style="position: absolute; left: 400px; top: 400px; text-align: right; ">
+        <h2 class="basliklar">Education</h2>
+            <ul class="ul">
+                <li><strong>Associate Degrees</strong>
+                    <p class="alt_bilgiler">Computer Programming</p>
+                    <p class="alt_bilgiler_2">İstanbul University 2022-2024</p>
+                </li>
+                <li><strong>Bachelor's Degree</strong>
+                    <p class="alt_bilgiler">Architecture</p>
+                    <p class="alt_bilgiler_2">Dokuz Eylul University 2017-2022</p>
+                </li>
+            </ul>
+        <h2 class="basliklar">Work Experiences</h2>
+            <ul class="ul">
+                <li> <strong>IT Engineer/Tester</strong>
+                    <p class="alt_bilgiler">Ericsson</p>
+                    <p class="alt_bilgiler_2">10.2023 - current</p>
+                </li>
+                <li><strong>Graphic & UI Designer</strong>
+                    <p class="alt_bilgiler">Ekol International Health Group</p>
+                    <p class="alt_bilgiler_2">04.2023 - 10.2023</p>
+                </li>
+                <li><strong>UI/UX Designer</strong>
+                    <p class="alt_bilgiler">Softinyo BGT</p>
+                    <p class="alt_bilgiler_2">08.2022 - 11.2022</p>
+                </li>
+                <li><strong>Creative Intern</strong>
+                    <p class="alt_bilgiler">ROIPUBLIC DMPA</p>
+                    <p class="alt_bilgiler_2">07.2022 - 08.2022</p>
+                </li>
+                <li><strong>Architect</strong>
+                    <p class="alt_bilgiler">Hicret Efe Mimarlık</p>
+                    <p class="alt_bilgiler_2">03.2021 - 10.2021</p>
+                </li>
+                <li><strong>Architectural Intern</strong>
+                    <p class="alt_bilgiler">Noyan Vural Mimarlık</p>
+                    <p class="alt_bilgiler_2">07.2020 - 08.2020</p>
+                </li>
+                <li><strong>Architectural Intern</strong>
+                    <p class="alt_bilgiler">Altun Mimarlık</p>
+                    <p class="alt_bilgiler_2">07.2018 - 09.2018</p>
+                </li>
+            </ul>
+        <h2 class="basliklar">Languages</h2>
+            <ul class="ul">
+                <li>Turkish</li>
+                <li>English</li>
+                <li>German</li>
+            </ul>
+    </div>
+<!-- SAĞ TARAF -->
+    <div style="position: absolute; left: 770px; top: 400px; text-align: left;">
+        <h2 class="basliklar">Skills</h2>
+            <ul class="ul">
+                <li>SQL</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Python</li>
+                <li>Jira & Trello</li>
+                <li>MS Office</li>
+                <li>Javascript</li>
+                <li>Power BI</li>
+            </ul>
+        <h2 class="basliklar">Courses & Certificates</h2>
+            <ul class="ul">
+                <li id="list"><strong>Yazılım Test Otomasyonu</strong>
+                    <p class="alt_bilgiler">BTK Akademi</p>
+                </li>
+                <li id="list"><strong>API ve API Testi</strong>
+                    <p class="alt_bilgiler">BTK Akademi</p>
+                </li>
+                <li id="list"><strong>HTML & CSS</strong>
+                    <p class="alt_bilgiler">Udemy</p>
+                </li>
+                <li id="list"><strong>Başlangıç seviye Frontend Patikası</strong>
+                    <p class="alt_bilgiler">Patika.dev</p>
+                </li>
+                <li id="list"><strong>User Experience 101</strong>
+                    <p class="alt_bilgiler">Udemy</p>
+                </li>
+                <li id="list"><strong>Borusan Teknoloji Okulu</strong>
+                    <p class="alt_bilgiler">Toptalent & Borusan Holding</p>
+                </li>
+                <li id="list"><strong>İş Bankası ProSchool IT Class</strong>
+                    <p class="alt_bilgiler">Toptalent & Borusan Holding</p>
+                </li>
+            </ul>
+        <h2 class="basliklar">Contact</h2>
+            <ul class="ul">
+                <li id="list"><strong>Phone</strong>
+                    <p class="alt_bilgiler">+90 543 325 1173</p>
+                </li>
+                <li id="list"><strong>Mail</strong>
+                    <p class="alt_bilgiler">contact.ozgepolat@gmail.com</p>
+                </li>
+                <li id="list"><strong>LinkedIN</strong>
+                    <p class="alt_bilgiler">linkedin.com/in/ozge-polatt</p>
+                </li>
+            </ul>
+    </div>
+<!--REFERANSLAR KISMI -->
+    <div style="position: absolute; top: 1180px; left: 680px; width: 400px; height: auto;">
+        <h2 class="basliklar">Referances</h2>
+        <ul class="ul" style="position: absolute; left: -130px; top: 35px; text-align: center;">
+            <li id="list"><strong>Ercan Doğan</strong>
+                <p class="alt_bilgiler">Test Lead - NTT Data Business Solutions</p>
+                <p class="alt_bilgiler_2">ercndgn@gmail.com</p>
+            </li>
+            <li id="list"><strong>Beytullah Uzun</strong>
+                <p class="alt_bilgiler">Test Manager - Vestel</p>
+                <p class="alt_bilgiler_2">uzunbeytullah@gmail.com</p>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
+
+
+----------CSS PART-------------
+.isim {
+    color: rgb(194, 114, 9);
+    text-align: center;
+    font-size: 36px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alt_bilgiler {
+    margin: 0px;
+    font-size: 16px;
+}
+
+.ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.alt_bilgiler_2 {
+    font-size: 12px;
+    margin-top: 0px;
+    font-style: italic;
+}
+
+.basliklar {
+    font-size: 20px;
+}
+
+#list {
+    margin-top: 10px;
+}
+
+#verticle {
+    border-left: 1px solid rgb(0, 0, 0);
+    height: 750px;
+    position: absolute;
+    left: 50%;
+    margin-left: -2px;
+    top: 420px;
+}
